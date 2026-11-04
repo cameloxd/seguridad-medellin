@@ -39,4 +39,4 @@ F01 y F02 declaran [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0
 
 ## Acceso a la entrega
 
-El repositorio es privado. Para que el docente pueda revisarlo en GitHub será necesario darle acceso desde la cuenta propietaria, o compartir los archivos por el medio de entrega del curso.
+El repositorio es público. El docente y cualquier otra persona pueden consultar y descargar la entrega desde https://github.com/cameloxd/seguridad-medellin sin solicitar acceso.
